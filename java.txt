@@ -1,2 +1,3 @@
 this is java code 
-code changes by akki  
+code changes by akki
+2nd code added  
